@@ -6,12 +6,22 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="container">
-<div>
-<div>a1</div>
-<div>a2</div>
-<div>a3</div>
-<div>a4</div>
+<div class="container-fluid">
+<div class="row1">
+<div class="a1">first grid</div>
+<div class="a2">second grid</div>
+<div class="a3">third grid</div>
+</div>
+
+<div class="row2">
+<div class="b1">first grid</div>
+<div class="b2">second grid</div>
+<div class="b3">third grid</div>
+</div>
+<div class="row3">
+<div class="c1">first grid</div>
+<div class="c2">second grid</div>
+<div class="c3">third grid</div>
 </div>
 </div>
 
